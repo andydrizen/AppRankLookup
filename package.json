@@ -1,0 +1,16 @@
+{
+  "name": "AppRankLookup",
+  "version": "0.0.1",
+  "description": "Lookup the rank of any App using this command-line interface.",
+  "main": "index.js",
+  "keywords": [
+    "iOS",
+    "rank"
+  ],
+  "author": "Andy Drizen",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://bitbucket.org/andydrizen/AppRankLookup"
+  }
+}
